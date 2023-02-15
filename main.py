@@ -16,6 +16,7 @@ if __name__ == "__main__":
     while True:
         # calling notify_func 
         notify_func(10)
+        # wait for 1 hour
         time.sleep(60*60)
         
     
